@@ -1,0 +1,8 @@
+1. Create remote repo
+2. Create local repo w/ the same name as remote repo
+3. Open terminal
+4. $ cd <PATH TO LOCAL REPO>
+5. $ git init
+6. $ git add .
+7. $ git commit - m "initial commit"
+8. $ git remote add origin <REMOTE REPO>
