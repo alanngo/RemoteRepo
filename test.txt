@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 asus
 msi
 gigabyte
 razer
-=======
-blah blah blah
->>>>>>> 5b3a64900ee19e3737e5b90d9c5008a6369c906a

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-INITIALIZATION
-=======
 INITIALIZATION FOR SINGLE-BRANCH
->>>>>>> 5b3a64900ee19e3737e5b90d9c5008a6369c906a
 1. Create remote repo
 2. Create local repo w/ the same name as remote repo
 3. Open terminal
@@ -13,14 +9,6 @@ INITIALIZATION FOR SINGLE-BRANCH
 8. $ git commit - m "initial commit"
 9. $ git remote add origin <REMOTE REPO>
 10. $ git push -u -f origin master
-<<<<<<< HEAD
-11. $ git pull
-
-CONTINUOUS
-1. $ git add <file name>
-2. $ git commit -m "<message>"
-3. $ git push
-=======
 
 CONTINUOUS
 1. $ git pull
@@ -46,4 +34,3 @@ CONTINUOUS
 2. $ git add <file name>
 3. $ git commit -m "<message>"
 4. $ git push origin <WORKING_BRANCH>
->>>>>>> 5b3a64900ee19e3737e5b90d9c5008a6369c906a
